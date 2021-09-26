@@ -1,8 +1,3 @@
-## Jinia91
-
-### Who am I
-### Experince
-### What I Like
 ---
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=jinia91" height="165">
