@@ -1,10 +1,6 @@
 ## Jinia91
 
 ### Who am I
-
-  - 1.
-  - 2.
-  - 3.
 ### Experince
 ### What I Like
 ---
