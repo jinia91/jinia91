@@ -44,7 +44,7 @@
 ## Certification
 - 2021.11 정보처리기사 취득
 
-## 알고리즘
+## Algorithm
 - 백준
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinia91">
