@@ -6,7 +6,7 @@
 
 현재 Java & Spring 을 메인으로 CS지식과 알고리즘을 공부하며, 1일 1커밋과 기술 블로그 포스팅으로 기록을 남기고 있습니다.
 
-## Skill
+## 🛠 Skill 🛠 
 
 
 ### Backend
@@ -28,7 +28,7 @@
 ### ETC.
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-## Project
+## Project 📒 
 
 ### [Jinia's LOG - 나만의 블로그 만들기](https://www.jiniaslog.co.kr/)
 
@@ -37,7 +37,7 @@
 [프로젝트 포트폴리오](https://github.com/jinia91/blog)
 
 
-## Education
+## Education ✏
 - 2021.08 서울 시립대 경제학부 경제학 전공 / 행정학 부전공 졸업
 
 ## Certification
@@ -45,10 +45,12 @@
 
 ## 알고리즘
 - 백준
+
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinia91">
 
 [플레티넘 취득](https://solved.ac/profile/jinia91)
 
 - 프로그래머스
+
 [현재 LV3 까지 All Solve를 위해 풀이중입니다!](https://www.jiniaslog.co.kr/article/list?category=%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&tier=2&page=1)
 
