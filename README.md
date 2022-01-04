@@ -52,9 +52,9 @@
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinia91">
 
-[플레티넘 취득](https://solved.ac/profile/jinia91)
+[플레티넘 달성](https://solved.ac/profile/jinia91)
 
 - 프로그래머스
 
-[현재 LV3 까지 All Solve를 위해 풀이중입니다!](https://www.jiniaslog.co.kr/article/list?category=%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&tier=2&page=1)
+[현재 LV3 까지 All Solve를 목표로 풀이중입니다!](https://www.jiniaslog.co.kr/article/list?category=%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&tier=2&page=1)
 
