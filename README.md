@@ -37,7 +37,7 @@
 
 기획, 요구사항분석부터 실제 배포 운영, 유지보수의 웹 애플리케이션 수명주기 전과정을 경험하기위해 스프링부트와 JPA, BootStrap, tymeleaf를 사용해 블로그를 만들고 CI/CD 무중단배포로 현재 운영중입니다.
 
-[프로젝트 포트폴리오](https://github.com/jinia91/blog)
+[Details](https://github.com/jinia91/blog)
 
 
 ## Education ✏
