@@ -57,7 +57,7 @@
 
 - 프로그래머스
 
-[LV2 배지 취득](https://programmers.co.kr/pr/creee77_4704)
+[LV2 배지 취득](https://programmers.co.kr/job_profiles/85326)
 
 [현재 LV3 까지 All Solve를 목표로 풀이중입니다!](https://www.jiniaslog.co.kr/article/list?category=%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&tier=2&page=1)
 
