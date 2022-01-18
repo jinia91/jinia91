@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/mybatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/h2-red?style=for-the-badge&logo=h2&logoColor=white">
 
 ### FrontEnd
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
