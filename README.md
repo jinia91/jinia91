@@ -46,7 +46,7 @@
 
 ### Toy Project 🎮
 
-#### Todo App Restful Api(http://3.38.36.238:8080/swagger-ui/index.html)
+#### [Todo App Restful Api](http://3.38.36.238:8080/swagger-ui/index.html)
 
 - 첫번째 릴리즈 개발기간 : 2022.02.04~2022.02.06
 - 운영기간 : 2022.02.06
