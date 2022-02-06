@@ -44,6 +44,16 @@
 
 [Details](https://github.com/jinia91/blog)
 
+### Toy Project 🎮
+
+#### Todo App Restful Api(http://3.38.36.238:8080/swagger-ui/index.html)
+
+- 첫번째 릴리즈 개발기간 : 2022.02.04~2022.02.06
+- 운영기간 : 2022.02.06
+
+restful한 서비스 개발 학습과 운영환경에서의 테스트코드 작성, 테스트 격리, 클린코드등을 적용하여 간단한 todo app api를 개발, CICD 릴리즈를 해보았습니다.
+
+[Details](https://github.com/jinia91/ToDoList_Rest_Api)
 
 ## Education ✏
 - 2021.06 Hello World! 프로그래밍 공부 시작!
