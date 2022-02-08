@@ -55,6 +55,18 @@ restful한 서비스 개발 학습과 운영환경에서의 테스트코드 작�
 
 [Details](https://github.com/jinia91/ToDoList_Rest_Api)
 
+#### [oEmbed Maker](http://3.38.36.238:3000/)
+
+- 첫번째 릴리즈 개발기간 : 2022.01.23~2022.01.26
+- 운영기간 : 2022.02.08
+
+url을 입력하면 내부 서버에서 oembed provider에게 oembed를 요청해 주소를 받아온뒤 클라이언트로 반환하는 간단한 서비스 웹앱입니다.
+
+스프링부트를 사용한 restful한 API 서버 개발과 리액트를 사용한 클라이언트 서버 개발, 그리고 백엔드 프론트 앱을 도커로 이미지화시켜 도커허브로 AWS EC2에 배포하는 토이프로젝트를 만들어보았습니다.
+
+[Details API](https://github.com/jinia91/oembedAPI)
+[Details Client](https://github.com/jinia91/oEmbed-Client)
+
 ## Education ✏
 - 2021.06 Hello World! 프로그래밍 공부 시작!
 - 서울 시립대 경제학부 경제학 전공 / 행정학 부전공 졸업
