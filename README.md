@@ -71,6 +71,17 @@ url을 입력하면 내부 서버에서 oembed provider에게 oembed를 요청�
 - 2021.06 Hello World! 프로그래밍 공부 시작!
 - 서울 시립대 경제학부 경제학 전공 / 행정학 부전공 졸업
 
+## Book Group Study
+
+프로그래밍 개발 서적을 탐험하는 모임!`Ptudy`
+
+- 1기 : 객체지향 사실과 오해(2021.8.16 ~ 2021.9.26)
+  - https://github.com/jinia91/ReadingGroupStudy
+- 2기 : 이펙티브 자바(2021.11.4~ 2021.12.7)
+  - https://www.jiniaslog.co.kr/article/list/tag/?tagName=%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94&page=1
+  - https://gainful-tin-43d.notion.site/Effective-Java-03af2ffb3b054a57b798dcda614472a9
+- 3기 : 오브젝트(2022.03.08~)
+  - https://github.com/Ptudy/Object
 
 ## Certification
 - 2021.11 정보처리기사 취득
