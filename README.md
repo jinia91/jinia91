@@ -72,7 +72,7 @@ url을 입력하면 내부 서버에서 oembed provider에게 oembed를 요청�
 ## Certification
 - 2021.11 정보처리기사 취득
 
-## Algorithm
+## Algorithm Study
 - 백준
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinia91">
