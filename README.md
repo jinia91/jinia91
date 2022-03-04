@@ -28,7 +28,7 @@
 
 ## Work Experience
 
-- Instawash 에서 서버 개발자로 재직중(2022.03.02~)
+- Happy Technology(Instawash) 에서 서버 개발자로 재직중(2022.03.02~)
 
 ## Project 📒 
 
