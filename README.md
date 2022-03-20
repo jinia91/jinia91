@@ -26,10 +26,6 @@
 ### DevOps
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-## Work Experience
-
-- Happy Technology(Instawash) 에서 서버 개발자로 재직중(2022.03.02~)
-
 ## Project 📒 
 
 ### [Jinia's LOG - 나만의 블로그 만들기](https://www.jiniaslog.co.kr/)
