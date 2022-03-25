@@ -37,31 +37,6 @@
 
 [Details](https://github.com/jinia91/blog)
 
-### Toy Project 🎮
-
-#### [Todo App Restful Api](http://3.38.36.238:8080/swagger-ui/index.html)
-
-- 첫번째 릴리즈 개발기간 : 2022.02.04~2022.02.06
-- 운영기간 : 2022.02.06~03.05(aws리소스문제로 종료)
-
-restful한 서비스 개발 학습과 운영환경에서의 테스트코드 작성, 테스트 격리, 클린코드등을 적용하여 간단한 todo app api를 개발, CICD 릴리즈를 해보았습니다.
-
-[Details](https://github.com/jinia91/ToDoList_Rest_Api)
-
-#### [oEmbed Maker](http://3.38.36.238:3000/)
-
-- 첫번째 릴리즈 개발기간 : 2022.01.23~2022.01.26
-- 운영기간 : 2022.02.08
-
-url을 입력하면 내부 서버에서 oembed provider에게 oembed를 요청해 주소를 받아온뒤 클라이언트로 반환하는 간단한 서비스 웹앱입니다.
-
-스프링부트를 사용한 간단한 API 서버 개발과 리액트를 사용한 클라이언트 개발로 프론트와 백을 둘다 구현하고,
-
-깃액션,도커,도커허브로 AWS EC2에 ci/cd 자동 배포하는 인프라 구축 학습을 위해 진행했습니다.
-
-
-[Details API](https://github.com/jinia91/oembedAPI)
-[Details Client](https://github.com/jinia91/oEmbed-Client)
 
 ## Education ✏
 - 2021.06 Hello World! 프로그래밍 공부 시작!
