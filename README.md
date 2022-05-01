@@ -54,6 +54,10 @@
 - 3기 : 오브젝트(2022.03.08~)
   - https://github.com/Ptudy/Object
 
+사내 스터디
+
+- 1차 : SQL 레벨업(2022.04.10~05.01)
+  - https://github.com/jinia91/SQLStudy
 ## Certification
 - 2021.11 정보처리기사 취득
 
