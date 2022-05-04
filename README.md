@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 
 ### DevOps
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/docker-232F3E?style=for-the-badge&logo=docker&logoColor=white">
 
 ## Project 📒 
 
@@ -58,6 +58,9 @@
 
 - 1차 : SQL 레벨업(2022.04.10~05.01)
   - https://github.com/jinia91/SQLStudy
+
+- 2차 : SQLD 자격증 취득(2022.05.02~05.28)
+
 ## Certification
 - 2021.11 정보처리기사 취득
 
