@@ -60,6 +60,7 @@
   - https://github.com/jinia91/SQLStudy
 
 - 2차 : SQLD 자격증 공부(2022.05.02~05.28)
+  - https://github.com/jinia91/SQLStudy
 
 ## Certification
 - 2021.11 정보처리기사 취득
