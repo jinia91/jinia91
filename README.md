@@ -10,7 +10,7 @@ Currently I am very interested in Webflux, Kotlin, Flutter!
 
 I believe that developers need to write code that has a business impact, is good performance, readable, and flexible to scale. so i'm constantly struggling to achieve it.
 
-Also, with the belief that today's routine, system, and record make the future, I try daily commit challenge and a technical bloging!
+Also, with the belief that today's routine, system, and record make the future, I try daily commit challenge and post a technical article in blog!
 
 
 ## 안녕하세요! 함께 성장하는 개발자 최원진 입니다.😀
