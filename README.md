@@ -1,14 +1,14 @@
 ## Hi! I'm Jinia!
 
-I love to learn new knowledge and skills, and I put the value of sharing experiences and growing together first.
+I love to learn new knowledge and skills, and put the value of sharing experiences and growing together first.
 
 I strive to become a developer who can help not only my own capabilities, but also the growth of my surroundings and the team I am with.
 
-With Java & Spring as the main, I have learned cs, data structures, algorithms, clean code and OOP through self-taught and group studies.
+With Java & Spring as the main, have learned cs, data structures, algorithms, clean code and OOP through self-taught and group studies.
 
 Currently I am very interested in Webflux, Kotlin, Flutter!
 
-I believe that developers need to write code that has a business impact, is good performance, readable, and flexible to scale. so i'm constantly struggling to achieve it.
+I believe that developers need to write code that has a business impact, is good performance, readable, and flexible to scale. so constantly struggling to achieve it.
 
 Also, with the belief that today's routine, system, and record make the future, I try daily commit challenge and post a technical article in blog!
 
