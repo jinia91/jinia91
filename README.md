@@ -1,4 +1,4 @@
-## Hi! Im Jinia!
+## Hi! I'm Jinia!
 
 I love to learn new knowledge and skills, and I put the value of sharing experiences and growing together first.
 
