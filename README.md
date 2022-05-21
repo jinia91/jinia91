@@ -13,8 +13,19 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 또한 오늘의 루틴과 시스템 그리고 기록이 미래의 나를 만든다는 믿음 하에 1일 1커밋과 기술 블로그 포스팅을 하고있습니다!
 
 
-## 🛠 Skill 🛠 
+I love to learn new knowledge and skills, and I put the value of sharing experiences and growing together first.
 
+I strive to become a developer who can help not only my own capabilities, but also the growth of my surroundings and the team I am with.
+
+With Java & Spring as the main, I have learned cs, data structures, algorithms, clean code and OOP through self-taught and group studies.
+
+Currently I am very interested in Webflux, Kotlin, Flutter!
+
+I believe that developers need to write code that has a business impact, is good performance, readable, and flexible to scale. so i'm constantly struggling to achieve it.
+
+Also, with the belief that today's routine, system, and record make the future, I do 1 commit a day and a technical bloging!
+
+## 🛠 Skill 🛠 
 
 ### Backend
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
