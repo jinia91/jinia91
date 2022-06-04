@@ -1,3 +1,6 @@
+
+![](https://github-stats-alpha.vercel.app/api/?username=jinia91&cc=000&tc=fff&ic=fff&bc=000)
+
 ## Hi! I'm Jinia!
 
 I love to learn new knowledge and skills, and put the value of sharing experiences and growing together first.
@@ -11,7 +14,6 @@ Currently I am very interested in Webflux, Kotlin, Flutter!
 I believe that developers need to write code that has a business impact, is good performance, readable, and flexible to scale. so constantly struggling to achieve it.
 
 Also, with the belief that today's routine, system, and record make the future, I try daily commit challenge and post a technical article in blog!
-
 
 ## 안녕하세요! 함께 성장하는 개발자 최원진 입니다.😀
 
