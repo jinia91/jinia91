@@ -1,6 +1,4 @@
 
-![](https://github-stats-alpha.vercel.app/api/?username=jinia91&cc=000&tc=fff&ic=fff&bc=000)
-
 ## Hi! I'm Jinia!
 
 I love to learn new knowledge and skills, and put the value of sharing experiences and growing together first.
@@ -28,6 +26,8 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 개발자는 비즈니스 임팩트가 있으며, 좋은 퍼포먼스와 읽기 쉽고 확장에 유연한 코드를 작성해야한다고 생각하며 이를 달성하기 위해 계속 고민하고 있습니다.
 
 또한 오늘의 루틴과 시스템 그리고 기록이 미래의 나를 만든다는 믿음 하에 1일 1커밋과 기술 블로그 포스팅을 하고있습니다!
+
+![](https://github-stats-alpha.vercel.app/api/?username=jinia91&cc=000&tc=fff&ic=fff&bc=000)
 
 ## 🛠 Skill 🛠 
 
