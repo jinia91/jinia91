@@ -89,6 +89,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   - https://github.com/jinia91/flutter_prac
 
 ## Certification
+- 2022.06 SQLD 취득
 - 2021.11 정보처리기사 취득
 
 ## Algorithm Study
