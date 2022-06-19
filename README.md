@@ -87,6 +87,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 - 3차 : 플러터 스터디(2022.05.30~)
   - https://github.com/jinia91/hello_dart
   - https://github.com/jinia91/flutter_prac
+  - https://github.com/jinia91/flutter_todo
 
 ## Certification
 - 2022.06 SQLD 취득
