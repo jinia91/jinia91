@@ -80,7 +80,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 사내 스터디
 
 - 1차 : SQL 레벨업(2022.04.10~05.01)
-  - https://github.com/jinia91/SQLStudy
+  - https://github.com/jinia91/SQLStudy/tree/main/wonjin/sqld
 
 - 2차 : SQLD 자격증 공부(2022.05.02~05.28)
   - https://github.com/jinia91/SQLStudy
