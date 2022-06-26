@@ -73,8 +73,9 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 - 2기 : 이펙티브 자바(2021.11.4~ 2021.12.7)
   - https://www.jiniaslog.co.kr/article/list/tag/?tagName=%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94&page=1
   - https://gainful-tin-43d.notion.site/Effective-Java-03af2ffb3b054a57b798dcda614472a9
-- 3기 : 오브젝트(2022.03.08~)
+- 3기 : 오브젝트(2022.03.08~6.14)
   - https://github.com/Ptudy/Object
+- 4기 : DDD(2022.07.05~)
 
 사내 스터디
 
