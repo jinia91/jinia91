@@ -86,7 +86,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 - 2차 : SQLD 자격증 공부(2022.05.02~05.28)
   - https://github.com/jinia91/SQLStudy/tree/main/wonjin/sqld
 
-- 3차 : 플러터 스터디(2022.05.30~)
+- 3차 : 플러터 스터디(2022.05.30~7.31)
   - https://github.com/jinia91/hello_dart
   - https://github.com/jinia91/flutter_prac
   - https://github.com/jinia91/flutter_todo
