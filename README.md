@@ -32,6 +32,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 ## 🛠 Skill 🛠 
 
 ### Backend
+<img src="https://img.shields.io/badge/KOTLIN-007396?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
