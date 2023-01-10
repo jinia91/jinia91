@@ -78,6 +78,8 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   - https://github.com/Ptudy/Object
 - 4기 : DDD(2022.07.05~09.20)
   - https://github.com/jinia91/TIL/tree/master/DDD
+- 5기 : 클린아키텍처(2023.01.12~)
+
 
 사내 스터디
 
@@ -106,6 +108,3 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 - 프로그래머스
 
   - LV2 배지 취득
-
-[현재 LV3 까지 All Solve를 목표로 풀이중입니다!](https://www.jiniaslog.co.kr/article/list?category=%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4&tier=2&page=1)
-
