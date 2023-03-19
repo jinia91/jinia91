@@ -79,7 +79,9 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   - https://github.com/Ptudy/Object
 - 4기 : DDD(2022.07.05~09.20)
   - https://github.com/jinia91/TIL/tree/master/DDD
-- 5기 : 클린아키텍처(2023.01.12~)
+- 5기 : 클린아키텍처(2023.01.12~3.8)
+  - https://github.com/jinia91/TIL/tree/master/clean%20architecture
+- 6기 : CentOS 7으로 리눅스마스터 1급 정복하기(2023.03.22~)
 
 
 사내 스터디
