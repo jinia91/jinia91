@@ -82,6 +82,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 - 5기 : 클린아키텍처(2023.01.12~3.8)
   - https://github.com/jinia91/TIL/tree/master/clean%20architecture
 - 6기 : DevOps와 Se를 위한 리눅스 커널 이야기(2023.04.03~)
+  - https://github.com/jinia91/TIL/tree/master/linux
 
 
 사내 스터디
