@@ -115,4 +115,4 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 
 ## Contribution
 - FixtureMonkey(https://github.com/naver/fixture-monkey)
-  - https://github.com/naver/fixture-monkey/issues/847
+  - https://github.com/naver/fixture-monkey/pull/848
