@@ -78,6 +78,11 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
   - https://github.com/jinia91/TIL/tree/master/clean%20architecture
 - 6기 : DevOps와 Se를 위한 리눅스 커널 이야기(2023.04.03~7.30)
   - https://github.com/jinia91/TIL/tree/master/linux
+- 7기 :
+  - Http 완벽 가이드(2023.02.28~)
+    - https://github.com/Tobystudy/Http-Study
+  - 토비의 스프링(2023.03.05~)
+    - https://github.com/Tobystudy/toby-spring-study  
 
 
 사내 스터디
@@ -107,3 +112,7 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 - 프로그래머스
 
   - LV2 배지 취득
+
+## Contribution
+- FixtureMonkey(https://github.com/naver/fixture-monkey)
+  - https://github.com/naver/fixture-monkey/issues/847
