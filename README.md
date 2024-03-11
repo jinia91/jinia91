@@ -11,7 +11,6 @@ Currently I am very interested in Webflux, Kotlin, Flutter!
 
 I believe that developers need to write code that has a business impact, is good performance, readable, and flexible to scale. so constantly struggling to achieve it.
 
-Also, with the belief that today's routine, system, and record make the future, I try daily commit challenge and post a technical article in blog!
 
 ## 안녕하세요! 함께 성장하는 개발자 최원진 입니다.😀
 
@@ -24,8 +23,6 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 현재는 Webflux, Kotlin, Flutter에 관심이 많습니다!
 
 개발자는 비즈니스 임팩트가 있으며, 좋은 퍼포먼스와 읽기 쉽고 확장에 유연한 코드를 작성해야한다고 생각하며 이를 달성하기 위해 계속 고민하고 있습니다.
-
-또한 오늘의 루틴과 시스템 그리고 기록이 미래의 나를 만든다는 믿음 하에 1일 1커밋과 기술 블로그 포스팅을 하고있습니다!
 
 ![](https://github-stats-alpha.vercel.app/api/?username=jinia91&cc=000&tc=fff&ic=fff&bc=000)
 
@@ -78,9 +75,9 @@ Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 
 - 6기 : DevOps와 Se를 위한 리눅스 커널 이야기(2023.04.03~7.30)
   - https://github.com/jinia91/TIL/tree/master/linux
 - 7기 :
-  - Http 완벽 가이드(2023.02.28~)
+  - Http 완벽 가이드(2024.02.28~)
     - https://github.com/Tobystudy/Http-Study
-  - 토비의 스프링(2023.03.05~)
+  - 토비의 스프링(2024.03.05~)
     - https://github.com/Tobystudy/toby-spring-study  
 
 
