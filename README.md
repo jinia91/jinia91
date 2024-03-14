@@ -5,9 +5,9 @@ I love to learn new knowledge and skills, and put the value of sharing experienc
 
 I strive to become a developer who can help not only my own capabilities, but also the growth of my surroundings and the team I am with.
 
-With Java & Spring as the main, have learned cs, data structures, algorithms, clean code and OOP through self-taught and group studies.
+With Kotlin & Spring as the main, have learned cs, data structures, algorithms, clean code and OOP through self-taught and group studies.
 
-Currently I am very interested in Webflux, Kotlin, Flutter!
+Currently I am very interested in Webflux, Grpc, Test!
 
 I believe that developers need to write code that has a business impact, is good performance, readable, and flexible to scale. so constantly struggling to achieve it.
 
@@ -18,11 +18,11 @@ I believe that developers need to write code that has a business impact, is good
 
 나 혼자의 역량만이 아니라 내 주변, 그리고 함께하는 팀의 성장을 도울 수 있는 개발자가 되기 위해 노력하고 있습니다. 
 
-Java & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 OOP를 독학과 그룹스터디를 통해 학습해왔으며,
+Kotlin & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 OOP를 독학과 그룹스터디를 통해 학습해왔으며,
 
-현재는 Webflux, Kotlin, Flutter에 관심이 많습니다!
+현재는 Webflux, GRPC, 그리고 테스트 플랫폼 구축을 포함한 테스트 전반에 관심이 많습니다!
 
-개발자는 비즈니스 임팩트가 있으며, 좋은 퍼포먼스와 읽기 쉽고 확장에 유연한 코드를 작성해야한다고 생각하며 이를 달성하기 위해 계속 고민하고 있습니다.
+개발자는 비즈니스 임팩트가 있으며, 좋은 퍼포먼스와 읽기 쉽고 확장에 유연한 독자 중심주의 코드를 작성해야한다고 생각하며 이를 달성하기 위해 계속 고민하고 있습니다.
 
 ![](https://github-stats-alpha.vercel.app/api/?username=jinia91&cc=000&tc=fff&ic=fff&bc=000)
 
