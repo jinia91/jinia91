@@ -18,7 +18,7 @@ I believe that developers need to write code that has a business impact, is good
 
 나 혼자의 역량만이 아니라 내 주변, 그리고 함께하는 팀의 성장을 도울 수 있는 개발자가 되기 위해 노력하고 있습니다. 
 
-Kotlin & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 OOP를 독학과 그룹스터디를 통해 학습해왔으며,
+Kotlin & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드와 OOP를 독학과 그룹스터디를 통해 학습해왔으며,
 
 현재는 Webflux, GRPC, 그리고 테스트 플랫폼 구축을 포함한 테스트 전반에 관심이 많습니다!
 
