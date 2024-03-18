@@ -106,3 +106,5 @@ Kotlin & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드�
 ## Contribution
 - FixtureMonkey(https://github.com/naver/fixture-monkey)
   - https://github.com/naver/fixture-monkey/pull/848
+  - https://github.com/naver/fixture-monkey/pull/948
+  - https://github.com/naver/fixture-monkey/pull/950
