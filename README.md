@@ -100,7 +100,6 @@ Kotlin & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드�
 [플레티넘 달성](https://solved.ac/profile/jinia91)
 
 - 프로그래머스
-
   - LV2 배지 취득
 
 ## Contribution
