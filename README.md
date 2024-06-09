@@ -77,7 +77,7 @@ Kotlin & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드�
 - 7기 :
   - Http 완벽 가이드(2024.02.28~)
     - https://github.com/Tobystudy/Http-Study
-  - 토비의 스프링(2024.03.05~)
+  - 토비의 스프링 vol.1(2024.03.05~05.15)
     - https://github.com/Tobystudy/toby-spring-study  
 
 
