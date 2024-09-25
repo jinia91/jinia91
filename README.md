@@ -103,7 +103,9 @@ Kotlin & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드�
   - LV2 배지 취득
 
 ## Contribution
-- FixtureMonkey(https://github.com/naver/fixture-monkey)
+- [FixtureMonkey](https://github.com/naver/fixture-monkey)
   - https://github.com/naver/fixture-monkey/pull/848
   - https://github.com/naver/fixture-monkey/pull/948
   - https://github.com/naver/fixture-monkey/pull/950
+- [redisson](https://github.com/redisson/redisson)
+  - https://github.com/redisson/redisson/pull/6191  
