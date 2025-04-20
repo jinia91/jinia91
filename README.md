@@ -43,16 +43,24 @@ Kotlin & Spring을 메인으로 cs, 자료구조와 알고리즘, 클린코드�
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/docker-232F3E?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 ## Project 📒 
+### Jinia's Log - 나만의 웹앱 만들기
+
+- 운영기간 : 2025.04.01~
+
+- 실제 물리 머신 위에 클라우드 네이티브한 인프라 구축 및 쿠버네티스 운영 경험
+- CI CD 파이프라인 구축 및 고도화
+- 옵저버빌리티 시스템으로 장애에 안정적인 시스템 만들기
+- 모듈화된 애플리케이션으로 MSA로의 진화 확장성 확보 및 실현
+- CQRS 등 데이터 파이프라인, 시스템을 통한 다양한 아키텍처 패턴 구현
 
 ### [Jinia's LOG - 나만의 블로그 만들기]
 
-- 첫번째 릴리즈 개발기간 : 2021.11.05 ~ 2021.12.18
+- 최초 릴리즈 개발기간 : 2021.11.05 ~ 2021.12.18
 - 운영기간 : 2021.12.18~2022.12.18
 
 - 기획, 요구사항분석부터 실제 배포 운영, 유지보수의 웹 애플리케이션 수명주기 전과정을 경험하기위해 스프링부트와 JPA, BootStrap, tymeleaf를 사용해 블로그를 만들고 CI/CD 무중단배포로 운영
-- 프리티어 종료 후 데이터 마이그레이션하고 리팩토링하여 다시개시 예정
 
-[Details](https://github.com/jinia91/blog)
+[V1 Details](https://github.com/jinia91/blog/blob/main/README_V1.md)
 
 
 ## Education ✏
